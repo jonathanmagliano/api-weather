@@ -10,14 +10,9 @@
 
 - [Angular CDK](https://material.angular.io)
 
-## Dependências
-```
-ng add @ngrx/store@latest
-ng add @ngrx/store-devtools
-ng add @ngrx/router-store@latest
-ng add ngx-bootstrap
-npm i @angular/cdk
-```
+## Instalação
+I - Clone o repositório `git clone git@github.com:jonathanmagliano/api-weather.git`
+II - Entre no projeto e instale as dependências `npm install`
 
 ## Development server
 
