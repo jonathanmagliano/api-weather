@@ -12,6 +12,7 @@
 
 ## Instalação
 I - Clone o repositório `git clone git@github.com:jonathanmagliano/api-weather.git`
+
 II - Entre no projeto e instale as dependências `npm install`
 
 ## Development server
